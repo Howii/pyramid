@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+jsonlines
+ccxt
+websocket-client
+requests
